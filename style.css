@@ -54,6 +54,10 @@ section {
     margin: 10px;
 }
 
+.card-img-top {
+    height: 200px;
+}
+
 .card h6 {
     text-align: center;
     align-content: center;
@@ -61,8 +65,6 @@ section {
     color: white;
     width: 100%;
     padding: 10px;
-    position: absolute;
-    top: 70%;
 }
 
 .btn {
